@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="14071" started-at="2017-05-10T21:00:50Z" finished-at="2017-05-10T21:01:04Z">
+    <groups>
+    </groups>
+    <test name="miPrimerTest1" duration-ms="14071" started-at="2017-05-10T21:00:50Z" finished-at="2017-05-10T21:01:04Z">
+      <class name="MiPrimerTest">
+        <test-method status="PASS" signature="verificar()[pri:0, instance:MiPrimerTest@d7b1517]" name="verificar" duration-ms="14039" started-at="2017-05-10T16:00:50Z" finished-at="2017-05-10T16:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificar -->
+      </class> <!-- MiPrimerTest -->
+    </test> <!-- miPrimerTest1 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
