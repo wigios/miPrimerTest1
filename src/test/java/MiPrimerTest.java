@@ -9,7 +9,7 @@ public class MiPrimerTest {
         WebDriver driver = new FirefoxDriver();
         driver.get("http://josepablosarco.wordpress.com");
         String contiene = driver.getTitle();
-
+//Esta es una prueba
         //Assert.assertTrue(contiene.equalsIgnoreCase("Testing en Español | Articulos y Herramientas de Testing, pero en Español"));
         Assert.assertTrue(driver.getTitle().contains("Testing"), "El titulo debe contener la palabra testing");
 
